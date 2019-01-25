@@ -1,0 +1,346 @@
+,UNITID,University,Type,City,State,EFFYLEV,EFYTOTLT,EFYTOTLM,EFYTOTLW
+0,448886,Arizona State University,Public,Tempe,AZ,1,12368,4115,8253
+1,448886,Arizona State University,Public,Tempe,AZ,2,10334,3556,6778
+2,448886,Arizona State University,Public,Tempe,AZ,4,2034,559,1475
+3,164924,Boston College,Private (Non-profit),Chestnut Hill,MA,1,15594,7129,8465
+4,164924,Boston College,Private (Non-profit),Chestnut Hill,MA,2,10297,4855,5442
+5,164924,Boston College,Private (Non-profit),Chestnut Hill,MA,4,5297,2274,3023
+6,164988,Boston University,Private (Non-profit),Boston,MA,1,40176,16734,23442
+7,164988,Boston University,Private (Non-profit),Boston,MA,2,22685,9051,13634
+8,164988,Boston University,Private (Non-profit),Boston,MA,4,17491,7683,9808
+9,165015,Brandeis University,Private (Non-profit),Waltham,MA,1,6408,2922,3486
+10,165015,Brandeis University,Private (Non-profit),Waltham,MA,2,3852,1669,2183
+11,165015,Brandeis University,Private (Non-profit),Waltham,MA,4,2556,1253,1303
+12,217156,Brown University,Private (Non-profit),Providence,RI,1,10097,4823,5274
+13,217156,Brown University,Private (Non-profit),Providence,RI,2,7214,3320,3894
+14,217156,Brown University,Private (Non-profit),Providence,RI,4,2883,1503,1380
+15,110404,California Institute of Technology,Private (Non-profit),Pasadena,CA,1,2344,1579,765
+16,110404,California Institute of Technology,Private (Non-profit),Pasadena,CA,2,1034,634,400
+17,110404,California Institute of Technology,Private (Non-profit),Pasadena,CA,4,1310,945,365
+18,211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA,1,14202,8662,5540
+19,211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA,2,6869,3818,3051
+20,211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA,4,7333,4844,2489
+21,201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH,1,12178,6086,6092
+22,201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH,2,5298,2930,2368
+23,201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH,4,6880,3156,3724
+24,217882,Clemson University,Public,Clemson,SC,1,25474,13537,11937
+25,217882,Clemson University,Public,Clemson,SC,2,19593,10526,9067
+26,217882,Clemson University,Public,Clemson,SC,4,5881,3011,2870
+27,126818,Colorado State University,Public,Fort Collins,CO,1,35449,17165,18284
+28,126818,Colorado State University,Public,Fort Collins,CO,2,26719,12919,13800
+29,126818,Colorado State University,Public,Fort Collins,CO,4,8730,4246,4484
+30,190150,Columbia University,Private (Non-profit),New York,NY,1,30379,15047,15332
+31,190150,Columbia University,Private (Non-profit),New York,NY,2,8623,4531,4092
+32,190150,Columbia University,Private (Non-profit),New York,NY,4,21756,10516,11240
+33,190415,Cornell University,Private (Non-profit),Ithaca,NY,1,22462,11523,10939
+34,190415,Cornell University,Private (Non-profit),Ithaca,NY,2,14606,7082,7524
+35,190415,Cornell University,Private (Non-profit),Ithaca,NY,4,7856,4441,3415
+36,198419,Duke University,Private (Non-profit),Durham,NC,1,17560,8818,8742
+37,198419,Duke University,Private (Non-profit),Durham,NC,2,7253,3664,3589
+38,198419,Duke University,Private (Non-profit),Durham,NC,4,10307,5154,5153
+39,139658,Emory University,Private (Non-profit),Atlanta,GA,1,15421,6552,8869
+40,139658,Emory University,Private (Non-profit),Atlanta,GA,2,7764,3224,4540
+41,139658,Emory University,Private (Non-profit),Atlanta,GA,4,7657,3328,4329
+42,133951,Florida International University,Public,Miami,FL,1,66721,28858,37863
+43,133951,Florida International University,Public,Miami,FL,2,55100,24043,31057
+44,133951,Florida International University,Public,Miami,FL,4,11621,4815,6806
+45,134097,Florida State University,Public,Tallahassee,FL,1,44269,19916,24353
+46,134097,Florida State University,Public,Tallahassee,FL,2,35129,15883,19246
+47,134097,Florida State University,Public,Tallahassee,FL,4,9140,4033,5107
+48,232186,George Mason University,Public,Fairfax,VA,1,44713,20188,24525
+49,232186,George Mason University,Public,Fairfax,VA,2,30789,14492,16297
+50,232186,George Mason University,Public,Fairfax,VA,4,13924,5696,8228
+51,131469,George Washington University,Private (Non-profit),Washington,DC,1,29735,12633,17102
+52,131469,George Washington University,Private (Non-profit),Washington,DC,2,12039,5307,6732
+53,131469,George Washington University,Private (Non-profit),Washington,DC,4,17696,7326,10370
+54,131496,Georgetown University,Private (Non-profit),Washington,DC,1,21817,10061,11756
+55,131496,Georgetown University,Private (Non-profit),Washington,DC,2,8719,3879,4840
+56,131496,Georgetown University,Private (Non-profit),Washington,DC,4,13098,6182,6916
+57,139755,Georgia Institute of Technology,Public,Atlanta,GA,1,28743,20153,8590
+58,139755,Georgia Institute of Technology,Public,Atlanta,GA,2,16694,10836,5858
+59,139755,Georgia Institute of Technology,Public,Atlanta,GA,4,12049,9317,2732
+60,139940,Georgia State University,Public,Atlanta,GA,1,38084,15468,22616
+61,139940,Georgia State University,Public,Atlanta,GA,2,29438,12070,17368
+62,139940,Georgia State University,Public,Atlanta,GA,4,8646,3398,5248
+63,190576,"Graduate Center, CUNY",Public,New York,NY,1,8247,3122,5125
+64,190576,"Graduate Center, CUNY",Public,New York,NY,2,2561,787,1774
+65,190576,"Graduate Center, CUNY",Public,New York,NY,4,5686,2335,3351
+66,166027,Harvard University,Private (Non-profit),Cambridge,MA,1,38053,19269,18784
+67,166027,Harvard University,Private (Non-profit),Cambridge,MA,2,14128,7042,7086
+68,166027,Harvard University,Private (Non-profit),Cambridge,MA,4,23925,12227,11698
+69,151351,Indiana University Bloomington,Public,Bloomington,IN,1,52694,26348,26346
+70,151351,Indiana University Bloomington,Public,Bloomington,IN,2,40945,19887,21058
+71,151351,Indiana University Bloomington,Public,Bloomington,IN,4,11749,6461,5288
+72,153603,Iowa State University,Public,Ames,IA,1,38988,21774,17214
+73,153603,Iowa State University,Public,Ames,IA,2,32246,18287,13959
+74,153603,Iowa State University,Public,Ames,IA,4,6742,3487,3255
+75,162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD,1,28420,13378,15042
+76,162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD,2,8152,3689,4463
+77,162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD,4,20268,9689,10579
+78,155399,Kansas State University,Public,Manhattan,KS,1,26939,13568,13371
+79,155399,Kansas State University,Public,Manhattan,KS,2,21725,11270,10455
+80,155399,Kansas State University,Public,Manhattan,KS,4,5214,2298,2916
+81,159391,Louisiana State University,Public,Baton Rouge,LA,1,34192,16403,17789
+82,159391,Louisiana State University,Public,Baton Rouge,LA,2,27720,13364,14356
+83,159391,Louisiana State University,Public,Baton Rouge,LA,4,6472,3039,3433
+84,166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA,1,12084,7501,4583
+85,166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA,2,4680,2537,2143
+86,166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA,4,7404,4964,2440
+87,171100,Michigan State University,Public,East Lansing,MI,1,55896,26975,28921
+88,171100,Michigan State University,Public,East Lansing,MI,2,42452,21053,21399
+89,171100,Michigan State University,Public,East Lansing,MI,4,13444,5922,7522
+90,193900,New York University,Private (Non-profit),New York,NY,1,57321,25286,32035
+91,193900,New York University,Private (Non-profit),New York,NY,2,30000,12810,17190
+92,193900,New York University,Private (Non-profit),New York,NY,4,27321,12476,14845
+93,199193,North Carolina State University,Public,Raleigh,NC,1,38673,20947,17726
+94,199193,North Carolina State University,Public,Raleigh,NC,2,27249,14765,12484
+95,199193,North Carolina State University,Public,Raleigh,NC,4,11424,6182,5242
+96,167358,Northeastern University,Private (Non-profit),Boston,MA,1,26608,13466,13142
+97,167358,Northeastern University,Private (Non-profit),Boston,MA,2,18648,9239,9409
+98,167358,Northeastern University,Private (Non-profit),Boston,MA,4,7960,4227,3733
+99,147767,Northwestern University,Private (Non-profit),Evanston,IL,1,25359,13268,12091
+100,147767,Northwestern University,Private (Non-profit),Evanston,IL,2,10611,5149,5462
+101,147767,Northwestern University,Private (Non-profit),Evanston,IL,4,14748,8119,6629
+102,204796,Ohio State University,Public,Columbus,OH,1,63735,32082,31653
+103,204796,Ohio State University,Public,Columbus,OH,2,48487,25296,23191
+104,204796,Ohio State University,Public,Columbus,OH,4,15248,6786,8462
+105,209542,Oregon State University,Public,Corvallis,OR,1,35018,18486,16532
+106,209542,Oregon State University,Public,Corvallis,OR,2,28849,15421,13428
+107,209542,Oregon State University,Public,Corvallis,OR,4,6169,3065,3104
+108,214777,Pennsylvania State University,Public,University Park,PA,1,50281,27209,23072
+109,214777,Pennsylvania State University,Public,University Park,PA,2,43073,23258,19815
+110,214777,Pennsylvania State University,Public,University Park,PA,4,7208,3951,3257
+111,186131,Princeton University,Private (Non-profit),Princeton,NJ,1,8476,4665,3811
+112,186131,Princeton University,Private (Non-profit),Princeton,NJ,2,5666,2945,2721
+113,186131,Princeton University,Private (Non-profit),Princeton,NJ,4,2810,1720,1090
+114,243780,Purdue University,Public,West Lafayette,IN,1,43161,24982,18179
+115,243780,Purdue University,Public,West Lafayette,IN,2,31985,18582,13403
+116,243780,Purdue University,Public,West Lafayette,IN,4,11176,6400,4776
+117,227757,Rice University,Private (Non-profit),Houston,TX,1,7104,4037,3067
+118,227757,Rice University,Private (Non-profit),Houston,TX,2,4051,2135,1916
+119,227757,Rice University,Private (Non-profit),Houston,TX,4,3053,1902,1151
+120,186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ,1,55215,25585,29630
+121,186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ,2,39735,19684,20051
+122,186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ,4,15480,5901,9579
+123,243744,Stanford University,Private (Non-profit),Stanford,CA,1,20200,11779,8421
+124,243744,Stanford University,Private (Non-profit),Stanford,CA,2,8302,4348,3954
+125,243744,Stanford University,Private (Non-profit),Stanford,CA,4,11898,7431,4467
+126,196097,Stony Brook University,Public,Stony Brook,NY,1,29378,14726,14652
+127,196097,Stony Brook University,Public,Stony Brook,NY,2,19410,10463,8947
+128,196097,Stony Brook University,Public,Stony Brook,NY,4,9968,4263,5705
+129,196413,Syracuse University,Private (Non-profit),Syracuse,NY,1,35783,16152,19631
+130,196413,Syracuse University,Private (Non-profit),Syracuse,NY,2,27675,12143,15532
+131,196413,Syracuse University,Private (Non-profit),Syracuse,NY,4,8108,4009,4099
+132,216339,Temple University,Public,Philadelphia,PA,1,42126,20214,21912
+133,216339,Temple University,Public,Philadelphia,PA,2,31311,15356,15955
+134,216339,Temple University,Public,Philadelphia,PA,4,10815,4858,5957
+135,228723,Texas A&M University,Public,College Station,TX,1,68383,35802,32581
+136,228723,Texas A&M University,Public,College Station,TX,2,51788,26574,25214
+137,228723,Texas A&M University,Public,College Station,TX,4,16595,9228,7367
+138,229115,Texas Tech University,Public,Lubbock,TX,1,39532,21254,18278
+139,229115,Texas Tech University,Public,Lubbock,TX,2,31494,17368,14126
+140,229115,Texas Tech University,Public,Lubbock,TX,4,8038,3886,4152
+141,168148,Tufts University,Private (Non-profit),Medford,MA,1,12451,5529,6922
+142,168148,Tufts University,Private (Non-profit),Medford,MA,2,5697,2803,2894
+143,168148,Tufts University,Private (Non-profit),Medford,MA,4,6754,2726,4028
+144,160755,Tulane University,Private (Non-profit),New Orleans,LA,1,13935,6049,7886
+145,160755,Tulane University,Private (Non-profit),New Orleans,LA,2,8798,3662,5136
+146,160755,Tulane University,Private (Non-profit),New Orleans,LA,4,5137,2387,2750
+147,196060,"University at Albany, SUNY",Public,Albany,NY,1,19557,9339,10218
+148,196060,"University at Albany, SUNY",Public,Albany,NY,2,14671,7480,7191
+149,196060,"University at Albany, SUNY",Public,Albany,NY,4,4886,1859,3027
+150,196088,University at Buffalo,Public,Buffalo,NY,1,33140,17630,15510
+151,196088,University at Buffalo,Public,Buffalo,NY,2,22503,12447,10056
+152,196088,University at Buffalo,Public,Buffalo,NY,4,10637,5183,5454
+153,100663,University of Alabama at Birmingham,Public,Birmingham,AL,1,21554,8383,13171
+154,100663,University of Alabama at Birmingham,Public,Birmingham,AL,2,13440,5552,7888
+155,100663,University of Alabama at Birmingham,Public,Birmingham,AL,4,8114,2831,5283
+156,104179,University of Arizona,Public,Tucson,AZ,1,46761,22662,24099
+157,104179,University of Arizona,Public,Tucson,AZ,2,36246,17692,18554
+158,104179,University of Arizona,Public,Tucson,AZ,4,10515,4970,5545
+159,106397,University of Arkansas,Public,Fayetteville,AR,1,29612,14496,15116
+160,106397,University of Arkansas,Public,Fayetteville,AR,2,23946,11554,12392
+161,106397,University of Arkansas,Public,Fayetteville,AR,4,5666,2942,2724
+162,110635,"University of California, Berkeley",Public,Berkeley,CA,1,40961,20378,20583
+163,110635,"University of California, Berkeley",Public,Berkeley,CA,2,29591,14216,15375
+164,110635,"University of California, Berkeley",Public,Berkeley,CA,4,11370,6162,5208
+165,110644,"University of California, Davis",Public,Davis,CA,1,37381,15962,21419
+166,110644,"University of California, Davis",Public,Davis,CA,2,30215,12571,17644
+167,110644,"University of California, Davis",Public,Davis,CA,4,7166,3391,3775
+168,110653,"University of California, Irvine",Public,Irvine,CA,1,32967,15831,17136
+169,110653,"University of California, Irvine",Public,Irvine,CA,2,26991,12528,14463
+170,110653,"University of California, Irvine",Public,Irvine,CA,4,5976,3303,2673
+171,110662,"University of California, Los Angeles",Public,Los Angeles,CA,1,44794,21104,23690
+172,110662,"University of California, Los Angeles",Public,Los Angeles,CA,2,31906,14063,17843
+173,110662,"University of California, Los Angeles",Public,Los Angeles,CA,4,12888,7041,5847
+174,110671,"University of California, Riverside",Public,Riverside,CA,1,22895,11248,11647
+175,110671,"University of California, Riverside",Public,Riverside,CA,2,19765,9550,10215
+176,110671,"University of California, Riverside",Public,Riverside,CA,4,3130,1698,1432
+177,110680,"University of California, San Diego",Public,La Jolla,CA,1,34570,18704,15866
+178,110680,"University of California, San Diego",Public,La Jolla,CA,2,27918,14670,13248
+179,110680,"University of California, San Diego",Public,La Jolla,CA,4,6652,4034,2618
+180,110705,"University of California, Santa Barbara",Public,Santa Barbara,CA,1,24936,12099,12837
+181,110705,"University of California, Santa Barbara",Public,Santa Barbara,CA,2,21897,10444,11453
+182,110705,"University of California, Santa Barbara",Public,Santa Barbara,CA,4,3039,1655,1384
+183,110714,"University of California, Santa Cruz",Public,Santa Cruz,CA,1,19186,9348,9838
+184,110714,"University of California, Santa Cruz",Public,Santa Cruz,CA,2,17380,8321,9059
+185,110714,"University of California, Santa Cruz",Public,Santa Cruz,CA,4,1806,1027,779
+186,132903,University of Central Florida,Public,Orlando,FL,1,74170,32973,41197
+187,132903,University of Central Florida,Public,Orlando,FL,2,63692,28683,35009
+188,132903,University of Central Florida,Public,Orlando,FL,4,10478,4290,6188
+189,144050,University of Chicago,Private (Non-profit),Chicago,IL,1,17229,9833,7396
+190,144050,University of Chicago,Private (Non-profit),Chicago,IL,2,6046,3173,2873
+191,144050,University of Chicago,Private (Non-profit),Chicago,IL,4,11183,6660,4523
+192,201885,University of Cincinnati,Public,Cincinnati,OH,1,41712,18966,22746
+193,201885,University of Cincinnati,Public,Cincinnati,OH,2,28056,13861,14195
+194,201885,University of Cincinnati,Public,Cincinnati,OH,4,13656,5105,8551
+195,126614,University of Colorado Boulder,Public,Boulder,CO,1,37018,20505,16513
+196,126614,University of Colorado Boulder,Public,Boulder,CO,2,30187,16683,13504
+197,126614,University of Colorado Boulder,Public,Boulder,CO,4,6831,3822,3009
+198,129020,University of Connecticut,Public,Storrs,CT,1,29499,14657,14842
+199,129020,University of Connecticut,Public,Storrs,CT,2,20152,10097,10055
+200,129020,University of Connecticut,Public,Storrs,CT,4,9347,4560,4787
+201,130943,University of Delaware,Public,Newark,DE,1,24551,10797,13754
+202,130943,University of Delaware,Public,Newark,DE,2,20498,8783,11715
+203,130943,University of Delaware,Public,Newark,DE,4,4053,2014,2039
+204,134130,University of Florida,Public,Gainesville,FL,1,57377,26259,31118
+205,134130,University of Florida,Public,Gainesville,FL,2,36703,16559,20144
+206,134130,University of Florida,Public,Gainesville,FL,4,20674,9700,10974
+207,139959,University of Georgia,Public,Athens,GA,1,39887,17021,22866
+208,139959,University of Georgia,Public,Athens,GA,2,30197,13128,17069
+209,139959,University of Georgia,Public,Athens,GA,4,9690,3893,5797
+210,141574,University of Hawaii at Manoa,Public,Honolulu,HI,1,21865,9521,12344
+211,141574,University of Hawaii at Manoa,Public,Honolulu,HI,2,15844,7125,8719
+212,141574,University of Hawaii at Manoa,Public,Honolulu,HI,4,6021,2396,3625
+213,225511,University of Houston,Public,Houston,TX,1,49127,24862,24265
+214,225511,University of Houston,Public,Houston,TX,2,39756,20118,19638
+215,225511,University of Houston,Public,Houston,TX,4,9371,4744,4627
+216,145600,University of Illinois at Chicago,Public,Chicago,IL,1,31848,15026,16822
+217,145600,University of Illinois at Chicago,Public,Chicago,IL,2,19184,9610,9574
+218,145600,University of Illinois at Chicago,Public,Chicago,IL,4,12664,5416,7248
+219,145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL,1,49094,26933,22161
+220,145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL,2,34687,19525,15162
+221,145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL,4,14407,7408,6999
+222,153658,University of Iowa,Public,Iowa City,IA,1,34337,16513,17824
+223,153658,University of Iowa,Public,Iowa City,IA,2,25883,12366,13517
+224,153658,University of Iowa,Public,Iowa City,IA,4,8454,4147,4307
+225,155317,University of Kansas,Public,Lawrence,KS,1,30913,14698,16215
+226,155317,University of Kansas,Public,Lawrence,KS,2,20943,10468,10475
+227,155317,University of Kansas,Public,Lawrence,KS,4,9970,4230,5740
+228,157085,University of Kentucky,Public,Lexington,KY,1,31622,14599,17023
+229,157085,University of Kentucky,Public,Lexington,KY,2,23877,11238,12639
+230,157085,University of Kentucky,Public,Lexington,KY,4,7745,3361,4384
+231,157289,University of Louisville,Public,Louisville,KY,1,25126,12372,12754
+232,157289,University of Louisville,Public,Louisville,KY,2,18219,9066,9153
+233,157289,University of Louisville,Public,Louisville,KY,4,6907,3306,3601
+234,163286,"University of Maryland, College Park",Public,College Park,MD,1,42801,22739,20062
+235,163286,"University of Maryland, College Park",Public,College Park,MD,2,31050,16619,14431
+236,163286,"University of Maryland, College Park",Public,College Park,MD,4,11751,6120,5631
+237,166629,University of Massachusetts Amherst,Public,Amherst,MA,1,33767,16884,16883
+238,166629,University of Massachusetts Amherst,Public,Amherst,MA,2,25988,13122,12866
+239,166629,University of Massachusetts Amherst,Public,Amherst,MA,4,7779,3762,4017
+240,135726,University of Miami,Private (Non-profit),Coral Gables,FL,1,18915,9180,9735
+241,135726,University of Miami,Private (Non-profit),Coral Gables,FL,2,12243,5920,6323
+242,135726,University of Miami,Private (Non-profit),Coral Gables,FL,4,6672,3260,3412
+243,170976,University of Michigan,Public,Ann Arbor,MI,1,45170,23501,21669
+244,170976,University of Michigan,Public,Ann Arbor,MI,2,29124,14748,14376
+245,170976,University of Michigan,Public,Ann Arbor,MI,4,16046,8753,7293
+246,174066,University of Minnesota,Public,Minneapolis,MN,1,63664,29746,33918
+247,174066,University of Minnesota,Public,Minneapolis,MN,2,44505,20861,23644
+248,174066,University of Minnesota,Public,Minneapolis,MN,4,19159,8885,10274
+249,176017,University of Mississippi,Public,Oxford,MS,1,25966,11302,14664
+250,176017,University of Mississippi,Public,Oxford,MS,2,20903,9138,11765
+251,176017,University of Mississippi,Public,Oxford,MS,4,5063,2164,2899
+252,178396,University of Missouri,Public,Columbia,MO,1,39040,18405,20635
+253,178396,University of Missouri,Public,Columbia,MO,2,29984,14482,15502
+254,178396,University of Missouri,Public,Columbia,MO,4,9056,3923,5133
+255,181464,University of Nebraska-Lincoln,Public,Lincoln,NE,1,27908,14457,13451
+256,181464,University of Nebraska-Lincoln,Public,Lincoln,NE,2,21433,11450,9983
+257,181464,University of Nebraska-Lincoln,Public,Lincoln,NE,4,6475,3007,3468
+258,187985,University of New Mexico,Public,Albuquerque,NM,1,31578,14156,17422
+259,187985,University of New Mexico,Public,Albuquerque,NM,2,23419,10493,12926
+260,187985,University of New Mexico,Public,Albuquerque,NM,4,8159,3663,4496
+261,199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,1,31537,13681,17856
+262,199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,2,19312,8105,11207
+263,199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,4,12225,5576,6649
+264,227216,University of North Texas,Public,Denton,TX,1,43103,20246,22857
+265,227216,University of North Texas,Public,Denton,TX,2,34448,16756,17692
+266,227216,University of North Texas,Public,Denton,TX,4,8655,3490,5165
+267,152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN,1,12851,7066,5785
+268,152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN,2,8626,4512,4114
+269,152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN,4,4225,2554,1671
+270,207500,University of Oklahoma,Public,Norman,OK,1,31218,15894,15324
+271,207500,University of Oklahoma,Public,Norman,OK,2,23570,12040,11530
+272,207500,University of Oklahoma,Public,Norman,OK,4,7648,3854,3794
+273,209551,University of Oregon,Public,Eugene,OR,1,27202,12883,14319
+274,209551,University of Oregon,Public,Eugene,OR,2,22625,10810,11815
+275,209551,University of Oregon,Public,Eugene,OR,4,4577,2073,2504
+276,215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA,1,28912,13067,15845
+277,215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA,2,13341,6305,7036
+278,215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA,4,15571,6762,8809
+279,215293,University of Pittsburgh,Public,Pittsburgh,PA,1,32017,15298,16719
+280,215293,University of Pittsburgh,Public,Pittsburgh,PA,2,20635,10241,10394
+281,215293,University of Pittsburgh,Public,Pittsburgh,PA,4,11382,5057,6325
+282,195030,University of Rochester,Private (Non-profit),Rochester,NY,1,11938,5791,6147
+283,195030,University of Rochester,Private (Non-profit),Rochester,NY,2,6821,3337,3484
+284,195030,University of Rochester,Private (Non-profit),Rochester,NY,4,5117,2454,2663
+285,218663,University of South Carolina,Public,Columbia,SC,1,36906,16472,20434
+286,218663,University of South Carolina,Public,Columbia,SC,2,25594,12100,13494
+287,218663,University of South Carolina,Public,Columbia,SC,4,11312,4372,6940
+288,137351,University of South Florida,Public,Tampa,FL,1,47019,21009,26010
+289,137351,University of South Florida,Public,Tampa,FL,2,34324,15514,18810
+290,137351,University of South Florida,Public,Tampa,FL,4,12695,5495,7200
+291,123961,University of Southern California,Private (Non-profit),Los Angeles,CA,1,47765,22536,25229
+292,123961,University of Southern California,Private (Non-profit),Los Angeles,CA,2,20543,10196,10347
+293,123961,University of Southern California,Private (Non-profit),Los Angeles,CA,4,27222,12340,14882
+294,221759,University of Tennessee,Public,Knoxville,TN,1,30613,15318,15295
+295,221759,University of Tennessee,Public,Knoxville,TN,2,23677,12015,11662
+296,221759,University of Tennessee,Public,Knoxville,TN,4,6936,3303,3633
+297,228769,University of Texas at Arlington,Public,Arlington,TX,1,54334,20490,33844
+298,228769,University of Texas at Arlington,Public,Arlington,TX,2,39975,14703,25272
+299,228769,University of Texas at Arlington,Public,Arlington,TX,4,14359,5787,8572
+300,228778,University of Texas at Austin,Public,Austin,TX,1,54703,26747,27956
+301,228778,University of Texas at Austin,Public,Austin,TX,2,42193,20256,21937
+302,228778,University of Texas at Austin,Public,Austin,TX,4,12510,6491,6019
+303,228787,University of Texas at Dallas,Public,Richardson,TX,1,27579,15573,12006
+304,228787,University of Texas at Dallas,Public,Richardson,TX,2,17084,9658,7426
+305,228787,University of Texas at Dallas,Public,Richardson,TX,4,10495,5915,4580
+306,230764,University of Utah,Public,Salt Lake City,UT,1,36949,20509,16440
+307,230764,University of Utah,Public,Salt Lake City,UT,2,28297,15696,12601
+308,230764,University of Utah,Public,Salt Lake City,UT,4,8652,4813,3839
+309,234076,University of Virginia,Public,Charlottesville,VA,1,27523,12551,14972
+310,234076,University of Virginia,Public,Charlottesville,VA,2,18930,8508,10422
+311,234076,University of Virginia,Public,Charlottesville,VA,4,8593,4043,4550
+312,236948,University of Washington,Public,Seattle,WA,1,50374,23977,26397
+313,236948,University of Washington,Public,Seattle,WA,2,34486,16413,18073
+314,236948,University of Washington,Public,Seattle,WA,4,15888,7564,8324
+315,240444,"University of Wisconsin, Madison",Public,Madison,WI,1,45931,22650,23281
+316,240444,"University of Wisconsin, Madison",Public,Madison,WI,2,33400,16399,17001
+317,240444,"University of Wisconsin, Madison",Public,Madison,WI,4,12531,6251,6280
+318,240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI,1,31328,14563,16765
+319,240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI,2,25552,12268,13284
+320,240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI,4,5776,2295,3481
+321,221999,Vanderbilt University,Private (Non-profit),Nashville,TN,1,13389,6133,7256
+322,221999,Vanderbilt University,Private (Non-profit),Nashville,TN,2,7046,3548,3498
+323,221999,Vanderbilt University,Private (Non-profit),Nashville,TN,4,6343,2585,3758
+324,234030,Virginia Commonwealth University,Public,Richmond,VA,1,34310,14348,19962
+325,234030,Virginia Commonwealth University,Public,Richmond,VA,2,26329,11268,15061
+326,234030,Virginia Commonwealth University,Public,Richmond,VA,4,7981,3080,4901
+327,233921,Virginia Tech,Public,Blacksburg,VA,1,34426,19775,14651
+328,233921,Virginia Tech,Public,Blacksburg,VA,2,26211,15153,11058
+329,233921,Virginia Tech,Public,Blacksburg,VA,4,8215,4622,3593
+330,236939,Washington State University,Public,Pullman,WA,1,33328,16017,17311
+331,236939,Washington State University,Public,Pullman,WA,2,27313,13046,14267
+332,236939,Washington State University,Public,Pullman,WA,4,6015,2971,3044
+333,179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO,1,16292,7929,8363
+334,179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO,2,8440,3918,4522
+335,179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO,4,7852,4011,3841
+336,172644,Wayne State University,Public,Detroit,MI,1,32519,14498,18021
+337,172644,Wayne State University,Public,Detroit,MI,2,20795,9263,11532
+338,172644,Wayne State University,Public,Detroit,MI,4,11724,5235,6489
+339,238032,West Virginia University,Public,Morgantown,WV,1,32188,16400,15788
+340,238032,West Virginia University,Public,Morgantown,WV,2,24343,13115,11228
+341,238032,West Virginia University,Public,Morgantown,WV,4,7845,3285,4560
+342,130794,Yale University,Private (Non-profit),New Haven,CT,1,14107,6988,7119
+343,130794,Yale University,Private (Non-profit),New Haven,CT,2,7150,3494,3656
+344,130794,Yale University,Private (Non-profit),New Haven,CT,4,6957,3494,3463

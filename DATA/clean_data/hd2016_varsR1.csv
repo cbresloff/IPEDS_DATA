@@ -1,0 +1,116 @@
+,UNITID,University,Type,City,State,INSTNM,CONTROL,CONTROL.1,HLOFFER,HOSPITAL,LOCALE,INSTCAT,LANDGRNT,INSTSIZE
+0,448886,Arizona State University,Public,Tempe,AZ,Arizona State University-Downtown Phoenix,PUBLIC,1,9,-2,11,2,2,4
+1,164924,Boston College,Private (Non-profit),Chestnut Hill,MA,Boston College,PRIVATE NFP,2,9,2,13,2,2,4
+2,164988,Boston University,Private (Non-profit),Boston,MA,Boston University,PRIVATE NFP,2,9,2,11,2,2,5
+3,165015,Brandeis University,Private (Non-profit),Waltham,MA,Brandeis University,PRIVATE NFP,2,9,2,13,2,2,3
+4,217156,Brown University,Private (Non-profit),Providence,RI,Brown University,PRIVATE NFP,2,9,2,12,2,2,3
+5,110404,California Institute of Technology,Private (Non-profit),Pasadena,CA,California Institute of Technology,PRIVATE NFP,2,9,2,12,2,2,2
+6,211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA,Carnegie Mellon University,PRIVATE NFP,2,9,2,11,2,2,4
+7,201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH,Case Western Reserve University,PRIVATE NFP,2,9,2,11,2,2,4
+8,217882,Clemson University,Public,Clemson,SC,Clemson University,PUBLIC,1,9,2,21,2,1,5
+9,126818,Colorado State University,Public,Fort Collins,CO,Colorado State University-Fort Collins,PUBLIC,1,9,2,12,2,1,5
+10,190150,Columbia University,Private (Non-profit),New York,NY,Columbia University in the City of New York,PRIVATE NFP,2,9,2,11,2,2,5
+11,190415,Cornell University,Private (Non-profit),Ithaca,NY,Cornell University,PRIVATE NFP,2,9,2,13,2,1,5
+12,198419,Duke University,Private (Non-profit),Durham,NC,Duke University,PRIVATE NFP,2,9,1,11,2,2,4
+13,139658,Emory University,Private (Non-profit),Atlanta,GA,Emory University,PRIVATE NFP,2,9,1,21,2,2,4
+14,133951,Florida International University,Public,Miami,FL,Florida International University,PUBLIC,1,9,2,21,2,2,5
+15,134097,Florida State University,Public,Tallahassee,FL,Florida State University,PUBLIC,1,9,2,12,2,2,5
+16,232186,George Mason University,Public,Fairfax,VA,George Mason University,PUBLIC,1,9,2,21,2,2,5
+17,131469,George Washington University,Private (Non-profit),Washington,DC,George Washington University,PRIVATE NFP,2,9,2,11,2,2,5
+18,131496,Georgetown University,Private (Non-profit),Washington,DC,Georgetown University,PRIVATE NFP,2,9,2,11,2,2,4
+19,139755,Georgia Institute of Technology,Public,Atlanta,GA,Georgia Institute of Technology-Main Campus,PUBLIC,1,9,2,11,2,2,5
+20,139940,Georgia State University,Public,Atlanta,GA,Georgia State University,PUBLIC,1,9,2,11,2,2,5
+21,190576,"Graduate Center, CUNY",Public,New York,NY,CUNY Graduate School and University Center,PUBLIC,1,9,2,11,2,2,3
+22,166027,Harvard University,Private (Non-profit),Cambridge,MA,Harvard University,PRIVATE NFP,2,9,2,12,2,2,5
+23,151351,Indiana University Bloomington,Public,Bloomington,IN,Indiana University-Bloomington,PUBLIC,1,9,2,13,2,2,5
+24,153603,Iowa State University,Public,Ames,IA,Iowa State University,PUBLIC,1,9,2,13,2,1,5
+25,162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD,Johns Hopkins University,PRIVATE NFP,2,9,2,11,2,2,5
+26,155399,Kansas State University,Public,Manhattan,KS,Kansas State University,PUBLIC,1,9,2,13,2,1,5
+27,159391,Louisiana State University,Public,Baton Rouge,LA,Louisiana State University and Agricultural & Mechanical College,PUBLIC,1,9,2,12,2,1,5
+28,166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA,Massachusetts Institute of Technology,PRIVATE NFP,2,9,2,12,2,2,4
+29,171100,Michigan State University,Public,East Lansing,MI,Michigan State University,PUBLIC,1,9,2,13,2,1,5
+30,193900,New York University,Private (Non-profit),New York,NY,New York University,PRIVATE NFP,2,9,2,11,2,2,5
+31,199193,North Carolina State University,Public,Raleigh,NC,North Carolina State University at Raleigh,PUBLIC,1,9,2,11,2,1,5
+32,167358,Northeastern University,Private (Non-profit),Boston,MA,Northeastern University,PRIVATE NFP,2,9,2,11,2,2,5
+33,147767,Northwestern University,Private (Non-profit),Evanston,IL,Northwestern University,PRIVATE NFP,2,9,2,13,2,2,5
+34,204796,Ohio State University,Public,Columbus,OH,Ohio State University-Main Campus,PUBLIC,1,9,1,11,2,1,5
+35,209542,Oregon State University,Public,Corvallis,OR,Oregon State University,PUBLIC,1,9,2,13,2,1,5
+36,214777,Pennsylvania State University,Public,University Park,PA,Pennsylvania State University-Main Campus,PUBLIC,1,9,1,13,2,1,5
+37,186131,Princeton University,Private (Non-profit),Princeton,NJ,Princeton University,PRIVATE NFP,2,9,2,21,2,2,3
+38,243780,Purdue University,Public,West Lafayette,IN,Purdue University-Main Campus,PUBLIC,1,9,2,13,2,1,5
+39,227757,Rice University,Private (Non-profit),Houston,TX,Rice University,PRIVATE NFP,2,9,2,11,2,2,3
+40,186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ,Rutgers University-New Brunswick,PUBLIC,1,9,1,13,2,1,5
+41,243744,Stanford University,Private (Non-profit),Stanford,CA,Stanford University,PRIVATE NFP,2,9,1,21,2,2,4
+42,196097,Stony Brook University,Public,Stony Brook,NY,Stony Brook University,PUBLIC,1,9,1,21,2,2,5
+43,196413,Syracuse University,Private (Non-profit),Syracuse,NY,Syracuse University,PRIVATE NFP,2,9,2,12,2,2,5
+44,216339,Temple University,Public,Philadelphia,PA,Temple University,PUBLIC,1,9,1,11,2,2,5
+45,228723,Texas A&M University,Public,College Station,TX,Texas A & M University-College Station,PUBLIC,1,9,2,12,2,1,5
+46,229115,Texas Tech University,Public,Lubbock,TX,Texas Tech University,PUBLIC,1,9,2,12,2,2,5
+47,168148,Tufts University,Private (Non-profit),Medford,MA,Tufts University,PRIVATE NFP,2,9,2,21,2,2,4
+48,160755,Tulane University,Private (Non-profit),New Orleans,LA,Tulane University of Louisiana,PRIVATE NFP,2,9,1,11,2,2,4
+49,196060,"University at Albany, SUNY",Public,Albany,NY,SUNY at Albany,PUBLIC,1,9,2,13,2,2,4
+50,196088,University at Buffalo,Public,Buffalo,NY,University at Buffalo,PUBLIC,1,9,1,21,2,2,5
+51,100663,University of Alabama at Birmingham,Public,Birmingham,AL,University of Alabama at Birmingham,PUBLIC,1,9,1,12,2,2,4
+52,104179,University of Arizona,Public,Tucson,AZ,University of Arizona,PUBLIC,1,9,2,11,2,1,5
+53,106397,University of Arkansas,Public,Fayetteville,AR,University of Arkansas,PUBLIC,1,9,2,13,2,1,5
+54,110635,"University of California, Berkeley",Public,Berkeley,CA,University of California-Berkeley,PUBLIC,1,9,2,12,2,1,5
+55,110644,"University of California, Davis",Public,Davis,CA,University of California-Davis,PUBLIC,1,9,1,23,2,1,5
+56,110653,"University of California, Irvine",Public,Irvine,CA,University of California-Irvine,PUBLIC,1,9,1,11,2,2,5
+57,110662,"University of California, Los Angeles",Public,Los Angeles,CA,University of California-Los Angeles,PUBLIC,1,9,1,11,2,2,5
+58,110671,"University of California, Riverside",Public,Riverside,CA,University of California-Riverside,PUBLIC,1,9,2,11,2,1,5
+59,110680,"University of California, San Diego",Public,La Jolla,CA,University of California-San Diego,PUBLIC,1,9,1,11,2,2,5
+60,110705,"University of California, Santa Barbara",Public,Santa Barbara,CA,University of California-Santa Barbara,PUBLIC,1,9,2,22,2,2,5
+61,110714,"University of California, Santa Cruz",Public,Santa Cruz,CA,University of California-Santa Cruz,PUBLIC,1,9,2,13,2,2,4
+62,132903,University of Central Florida,Public,Orlando,FL,University of Central Florida,PUBLIC,1,9,2,21,2,2,5
+63,144050,University of Chicago,Private (Non-profit),Chicago,IL,University of Chicago,PRIVATE NFP,2,9,2,11,2,2,4
+64,201885,University of Cincinnati,Public,Cincinnati,OH,University of Cincinnati-Main Campus,PUBLIC,1,9,2,11,2,2,5
+65,126614,University of Colorado Boulder,Public,Boulder,CO,University of Colorado Boulder,PUBLIC,1,9,2,12,2,2,5
+66,129020,University of Connecticut,Public,Storrs,CT,University of Connecticut,PUBLIC,1,9,1,21,2,1,5
+67,130943,University of Delaware,Public,Newark,DE,University of Delaware,PUBLIC,1,9,2,21,2,1,5
+68,134130,University of Florida,Public,Gainesville,FL,University of Florida,PUBLIC,1,9,2,12,2,1,5
+69,139959,University of Georgia,Public,Athens,GA,University of Georgia,PUBLIC,1,9,2,12,2,1,5
+70,141574,University of Hawaii at Manoa,Public,Honolulu,HI,University of Hawaii at Manoa,PUBLIC,1,9,2,11,2,1,4
+71,225511,University of Houston,Public,Houston,TX,University of Houston,PUBLIC,1,9,2,11,2,2,5
+72,145600,University of Illinois at Chicago,Public,Chicago,IL,University of Illinois at Chicago,PUBLIC,1,9,1,11,2,2,5
+73,145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL,University of Illinois at Urbana-Champaign,PUBLIC,1,9,2,13,2,1,5
+74,153658,University of Iowa,Public,Iowa City,IA,University of Iowa,PUBLIC,1,9,1,13,2,2,5
+75,155317,University of Kansas,Public,Lawrence,KS,University of Kansas,PUBLIC,1,9,2,13,2,2,5
+76,157085,University of Kentucky,Public,Lexington,KY,University of Kentucky,PUBLIC,1,9,1,11,2,1,5
+77,157289,University of Louisville,Public,Louisville,KY,University of Louisville,PUBLIC,1,9,1,11,2,2,5
+78,163286,"University of Maryland, College Park",Public,College Park,MD,University of Maryland-College Park,PUBLIC,1,9,2,21,2,1,5
+79,166629,University of Massachusetts Amherst,Public,Amherst,MA,University of Massachusetts-Amherst,PUBLIC,1,9,2,21,2,1,5
+80,135726,University of Miami,Private (Non-profit),Coral Gables,FL,University of Miami,PRIVATE NFP,2,9,1,21,2,2,4
+81,170976,University of Michigan,Public,Ann Arbor,MI,University of Michigan-Ann Arbor,PUBLIC,1,9,1,12,2,2,5
+82,174066,University of Minnesota,Public,Minneapolis,MN,University of Minnesota-Twin Cities,PUBLIC,1,9,2,11,2,1,5
+83,176017,University of Mississippi,Public,Oxford,MS,University of Mississippi,PUBLIC,1,9,1,33,2,2,5
+84,178396,University of Missouri,Public,Columbia,MO,University of Missouri-Columbia,PUBLIC,1,9,1,12,2,1,5
+85,181464,University of Nebraska-Lincoln,Public,Lincoln,NE,University of Nebraska-Lincoln,PUBLIC,1,9,2,11,2,1,5
+86,187985,University of New Mexico,Public,Albuquerque,NM,University of New Mexico-Main Campus,PUBLIC,1,9,1,11,2,2,5
+87,199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,University of North Carolina at Chapel Hill,PUBLIC,1,9,2,13,2,2,5
+88,227216,University of North Texas,Public,Denton,TX,University of North Texas,PUBLIC,1,9,2,12,2,2,5
+89,152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN,University of Notre Dame,PRIVATE NFP,2,9,2,21,2,2,4
+90,207500,University of Oklahoma,Public,Norman,OK,University of Oklahoma-Norman Campus,PUBLIC,1,9,2,22,2,2,5
+91,209551,University of Oregon,Public,Eugene,OR,University of Oregon,PUBLIC,1,9,2,12,2,2,5
+92,215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA,University of Pennsylvania,PRIVATE NFP,2,9,1,11,2,2,5
+93,215293,University of Pittsburgh,Public,Pittsburgh,PA,University of Pittsburgh-Pittsburgh Campus,PUBLIC,1,9,2,11,2,2,5
+94,195030,University of Rochester,Private (Non-profit),Rochester,NY,University of Rochester,PRIVATE NFP,2,9,1,12,2,2,4
+95,218663,University of South Carolina,Public,Columbia,SC,University of South Carolina-Columbia,PUBLIC,1,9,2,12,2,2,5
+96,137351,University of South Florida,Public,Tampa,FL,University of South Florida-Main Campus,PUBLIC,1,9,2,11,2,2,5
+97,123961,University of Southern California,Private (Non-profit),Los Angeles,CA,University of Southern California,PRIVATE NFP,2,9,1,11,2,2,5
+98,221759,University of Tennessee,Public,Knoxville,TN,The University of Tennessee-Knoxville,PUBLIC,1,9,2,12,2,1,5
+99,228769,University of Texas at Arlington,Public,Arlington,TX,The University of Texas at Arlington,PUBLIC,1,9,2,11,2,2,5
+100,228778,University of Texas at Austin,Public,Austin,TX,The University of Texas at Austin,PUBLIC,1,9,2,11,2,2,5
+101,228787,University of Texas at Dallas,Public,Richardson,TX,The University of Texas at Dallas,PUBLIC,1,9,2,12,2,2,5
+102,230764,University of Utah,Public,Salt Lake City,UT,University of Utah,PUBLIC,1,9,1,12,2,2,5
+103,234076,University of Virginia,Public,Charlottesville,VA,University of Virginia-Main Campus,PUBLIC,1,9,1,23,2,2,5
+104,236948,University of Washington,Public,Seattle,WA,University of Washington-Seattle Campus,PUBLIC,1,9,1,11,2,2,5
+105,240444,"University of Wisconsin, Madison",Public,Madison,WI,University of Wisconsin-Madison,PUBLIC,1,9,2,12,2,1,5
+106,240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI,University of Wisconsin-Milwaukee,PUBLIC,1,9,2,11,2,2,5
+107,221999,Vanderbilt University,Private (Non-profit),Nashville,TN,Vanderbilt University,PRIVATE NFP,2,9,2,11,2,2,4
+108,234030,Virginia Commonwealth University,Public,Richmond,VA,Virginia Commonwealth University,PUBLIC,1,9,1,12,2,2,5
+109,233921,Virginia Tech,Public,Blacksburg,VA,Virginia Polytechnic Institute and State University,PUBLIC,1,9,2,13,2,1,5
+110,236939,Washington State University,Public,Pullman,WA,Washington State University,PUBLIC,1,9,2,32,2,1,5
+111,179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO,Washington University in St Louis,PRIVATE NFP,2,9,2,21,2,2,4
+112,172644,Wayne State University,Public,Detroit,MI,Wayne State University,PUBLIC,1,9,2,11,2,2,5
+113,238032,West Virginia University,Public,Morgantown,WV,West Virginia University,PUBLIC,1,9,2,13,2,1,5
+114,130794,Yale University,Private (Non-profit),New Haven,CT,Yale University,PRIVATE NFP,2,9,2,12,2,2,4

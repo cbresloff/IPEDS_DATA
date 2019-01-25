@@ -1,0 +1,116 @@
+,UNITID,University,Type,City,State,CNTLAFFI,PUBPRIME,PUBSECON,RELAFFIL,ATHASSOC,ASSOC1,ASSOC2,ASSOC3,ASSOC4,ASSOC5,ASSOC6,SPORT1,CONFNO1,SPORT2,CONFNO2,SPORT3,CONFNO3,SPORT4,CONFNO4 
+0,448886,Arizona State University,Public,Tempe,AZ,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+1,164924,Boston College,Private (Non-profit),Chestnut Hill,MA,4,-2,-2,30,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+2,164988,Boston University,Private (Non-profit),Boston,MA,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,128,2,-2,1,128
+3,165015,Brandeis University,Private (Non-profit),Waltham,MA,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,200,1,200,1,200
+4,217156,Brown University,Private (Non-profit),Providence,RI,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+5,110404,California Institute of Technology,Private (Non-profit),Pasadena,CA,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,197,1,197,1,197
+6,211440,Carnegie Mellon University,Private (Non-profit),Pittsburgh,PA,3,-2,-2,-2,1,1,0,0,0,0,0,1,200,1,200,2,-2,1,200
+7,201645,Case Western Reserve University,Private (Non-profit),Cleveland,OH,3,-2,-2,-2,1,1,0,0,0,0,0,1,194,1,200,1,200,1,200
+8,217882,Clemson University,Public,Clemson,SC,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+9,126818,Colorado State University,Public,Fort Collins,CO,1,2,0,-2,1,1,0,0,0,0,0,1,203,1,203,2,-2,1,203
+10,190150,Columbia University,Private (Non-profit),New York,NY,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+11,190415,Cornell University,Private (Non-profit),Ithaca,NY,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+12,198419,Duke University,Private (Non-profit),Durham,NC,4,-2,-2,71,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+13,139658,Emory University,Private (Non-profit),Atlanta,GA,4,-2,-2,71,1,1,0,0,0,0,0,2,-2,1,200,1,200,1,200
+14,133951,Florida International University,Public,Miami,FL,1,2,0,-2,1,1,0,0,0,0,0,1,111,1,111,1,111,1,111
+15,134097,Florida State University,Public,Tallahassee,FL,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+16,232186,George Mason University,Public,Fairfax,VA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,103,1,103,1,103
+17,131469,George Washington University,Private (Non-profit),Washington,DC,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,103,1,103,1,103
+18,131496,Georgetown University,Private (Non-profit),Washington,DC,4,-2,-2,30,1,1,0,0,0,0,0,1,128,1,104,1,104,1,104
+19,139755,Georgia Institute of Technology,Public,Atlanta,GA,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+20,139940,Georgia State University,Public,Atlanta,GA,1,2,0,-2,1,1,0,0,0,0,0,1,134,1,134,1,134,1,134
+21,190576,"Graduate Center, CUNY",Public,New York,NY,1,2,0,-2,2,0,0,0,0,0,0,2,-2,2,-2,2,-2,2,-2
+22,166027,Harvard University,Private (Non-profit),Cambridge,MA,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+23,151351,Indiana University Bloomington,Public,Bloomington,IN,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+24,153603,Iowa State University,Public,Ames,IA,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,2,-2,1,108
+25,162928,Johns Hopkins University,Private (Non-profit),Baltimore,MD,3,-2,-2,-2,1,1,0,0,0,0,0,1,165,1,165,1,165,1,165
+26,155399,Kansas State University,Public,Manhattan,KS,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+27,159391,Louisiana State University,Public,Baton Rouge,LA,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+28,166683,Massachusetts Institute of Technology,Private (Non-profit),Cambridge,MA,3,-2,-2,-2,1,1,0,0,0,0,0,1,184,1,186,1,186,1,186
+29,171100,Michigan State University,Public,East Lansing,MI,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+30,193900,New York University,Private (Non-profit),New York,NY,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,200,1,115,1,200
+31,199193,North Carolina State University,Public,Raleigh,NC,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+32,167358,Northeastern University,Private (Non-profit),Boston,MA,3,-2,-2,-2,1,1,0,0,0,0,0,2,-2,1,110,1,110,1,110
+33,147767,Northwestern University,Private (Non-profit),Evanston,IL,3,-2,-2,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+34,204796,Ohio State University,Public,Columbus,OH,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+35,209542,Oregon State University,Public,Corvallis,OR,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+36,214777,Pennsylvania State University,Public,University Park,PA,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+37,186131,Princeton University,Private (Non-profit),Princeton,NJ,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+38,243780,Purdue University,Public,West Lafayette,IN,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+39,227757,Rice University,Private (Non-profit),Houston,TX,3,-2,-2,-2,1,1,0,0,0,0,0,1,111,1,111,1,111,1,111
+40,186380,Rutgers University-New Brunswick,Public,New Brunswick,NJ,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+41,243744,Stanford University,Private (Non-profit),Stanford,CA,3,-2,-2,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+42,196097,Stony Brook University,Public,Stony Brook,NY,1,2,0,-2,1,1,0,0,0,0,0,1,110,1,101,1,101,1,101
+43,196413,Syracuse University,Private (Non-profit),Syracuse,NY,3,-2,-2,-2,1,1,0,0,0,0,0,1,102,1,102,2,-2,1,102
+44,216339,Temple University,Public,Philadelphia,PA,1,2,0,-2,1,1,0,0,0,0,0,1,372,1,372,2,-2,1,372
+45,228723,Texas A&M University,Public,College Station,TX,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+46,229115,Texas Tech University,Public,Lubbock,TX,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+47,168148,Tufts University,Private (Non-profit),Medford,MA,3,-2,-2,-2,1,1,0,0,0,0,0,1,185,1,185,1,185,1,185
+48,160755,Tulane University,Private (Non-profit),New Orleans,LA,3,-2,-2,-2,1,1,0,0,0,0,0,1,372,1,372,1,372,1,372
+49,196060,"University at Albany, SUNY",Public,Albany,NY,1,2,0,-2,1,1,0,0,0,0,0,1,110,1,101,1,101,1,101
+50,196088,University at Buffalo,Public,Buffalo,NY,1,2,0,-2,1,1,0,0,0,0,0,1,119,1,119,1,119,1,119
+51,100663,University of Alabama at Birmingham,Public,Birmingham,AL,1,2,0,-2,1,1,0,0,0,0,0,1,111,1,111,1,111,1,111
+52,104179,University of Arizona,Public,Tucson,AZ,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+53,106397,University of Arkansas,Public,Fayetteville,AR,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+54,110635,"University of California, Berkeley",Public,Berkeley,CA,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+55,110644,"University of California, Davis",Public,Davis,CA,1,2,0,-2,1,1,0,0,0,0,0,1,105,1,109,1,109,1,109
+56,110653,"University of California, Irvine",Public,Irvine,CA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,109,1,109,1,109
+57,110662,"University of California, Los Angeles",Public,Los Angeles,CA,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+58,110671,"University of California, Riverside",Public,Riverside,CA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,109,1,109,1,109
+59,110680,"University of California, San Diego",Public,La Jolla,CA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,141,1,141,1,141
+60,110705,"University of California, Santa Barbara",Public,Santa Barbara,CA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,109,1,109,1,109
+61,110714,"University of California, Santa Cruz",Public,Santa Cruz,CA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,170,2,-2,1,170
+62,132903,University of Central Florida,Public,Orlando,FL,1,2,0,-2,1,1,0,0,0,0,0,1,372,1,372,1,372,1,372
+63,144050,University of Chicago,Private (Non-profit),Chicago,IL,3,-2,-2,-2,1,1,0,0,0,0,0,1,160,1,200,1,308,1,200
+64,201885,University of Cincinnati,Public,Cincinnati,OH,1,2,0,-2,1,1,0,0,0,0,0,1,372,1,372,1,372,1,372
+65,126614,University of Colorado Boulder,Public,Boulder,CO,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,2,-2,1,127
+66,129020,University of Connecticut,Public,Storrs,CT,1,2,0,-2,1,1,0,0,0,0,0,1,104,1,104,1,104,1,104
+67,130943,University of Delaware,Public,Newark,DE,1,9,0,-2,1,1,0,0,0,0,0,1,110,1,110,1,110,1,110
+68,134130,University of Florida,Public,Gainesville,FL,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+69,139959,University of Georgia,Public,Athens,GA,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+70,141574,University of Hawaii at Manoa,Public,Honolulu,HI,1,2,0,-2,1,1,0,0,0,0,0,1,203,1,109,1,109,1,109
+71,225511,University of Houston,Public,Houston,TX,1,2,0,-2,1,1,0,0,0,0,0,1,372,1,372,1,372,1,372
+72,145600,University of Illinois at Chicago,Public,Chicago,IL,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,122,1,122,1,122
+73,145637,University of Illinois at Urbana-Champaign,Public,Champaign,IL,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+74,153658,University of Iowa,Public,Iowa City,IA,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+75,155317,University of Kansas,Public,Lawrence,KS,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+76,157085,University of Kentucky,Public,Lexington,KY,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+77,157289,University of Louisville,Public,Louisville,KY,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+78,163286,"University of Maryland, College Park",Public,College Park,MD,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+79,166629,University of Massachusetts Amherst,Public,Amherst,MA,1,2,0,-2,1,1,0,0,0,0,0,1,327,1,103,1,103,1,103
+80,135726,University of Miami,Private (Non-profit),Coral Gables,FL,3,-2,-2,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+81,170976,University of Michigan,Public,Ann Arbor,MI,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+82,174066,University of Minnesota,Public,Minneapolis,MN,1,2,0,-2,1,1,0,0,0,0,1,1,107,1,107,1,107,1,107
+83,176017,University of Mississippi,Public,Oxford,MS,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+84,178396,University of Missouri,Public,Columbia,MO,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+85,181464,University of Nebraska-Lincoln,Public,Lincoln,NE,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,1,107,1,107
+86,187985,University of New Mexico,Public,Albuquerque,NM,1,2,0,-2,1,1,0,0,0,0,0,1,203,1,203,1,203,1,203
+87,199120,University of North Carolina at Chapel Hill,Public,Chapel Hill,NC,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+88,227216,University of North Texas,Public,Denton,TX,1,2,0,-2,1,1,0,0,0,0,0,1,111,1,111,2,-2,1,111
+89,152080,University of Notre Dame,Private (Non-profit),Notre Dame,IN,4,-2,-2,30,1,1,0,0,0,0,0,1,113,1,102,1,102,1,102
+90,207500,University of Oklahoma,Public,Norman,OK,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+91,209551,University of Oregon,Public,Eugene,OR,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+92,215062,University of Pennsylvania,Private (Non-profit),Philadelphia,PA,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
+93,215293,University of Pittsburgh,Public,Pittsburgh,PA,1,9,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+94,195030,University of Rochester,Private (Non-profit),Rochester,NY,3,-2,-2,-2,1,1,0,0,0,0,0,1,200,1,200,1,200,1,200
+95,218663,University of South Carolina,Public,Columbia,SC,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+96,137351,University of South Florida,Public,Tampa,FL,1,2,4,-2,1,1,0,0,0,0,0,1,372,1,372,1,372,1,372
+97,123961,University of Southern California,Private (Non-profit),Los Angeles,CA,3,-2,-2,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+98,221759,University of Tennessee,Public,Knoxville,TN,1,2,0,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+99,228769,University of Texas at Arlington,Public,Arlington,TX,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,134,1,134,1,134
+100,228778,University of Texas at Austin,Public,Austin,TX,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+101,228787,University of Texas at Dallas,Public,Richardson,TX,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,204,1,204,1,204
+102,230764,University of Utah,Public,Salt Lake City,UT,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+103,234076,University of Virginia,Public,Charlottesville,VA,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+104,236948,University of Washington,Public,Seattle,WA,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+105,240444,"University of Wisconsin, Madison",Public,Madison,WI,1,2,0,-2,1,1,0,0,0,0,0,1,107,1,107,2,-2,1,107
+106,240453,"University of Wisconsin, Milwaukee",Public,Milwaukee,WI,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,122,1,122,1,122
+107,221999,Vanderbilt University,Private (Non-profit),Nashville,TN,3,-2,-2,-2,1,1,0,0,0,0,0,1,130,1,130,1,130,1,130
+108,234030,Virginia Commonwealth University,Public,Richmond,VA,1,2,0,-2,1,1,0,0,0,0,0,2,-2,1,103,1,103,1,103
+109,233921,Virginia Tech,Public,Blacksburg,VA,1,2,0,-2,1,1,0,0,0,0,0,1,102,1,102,1,102,1,102
+110,236939,Washington State University,Public,Pullman,WA,1,2,0,-2,1,1,0,0,0,0,0,1,127,1,127,1,127,1,127
+111,179867,Washington University in St. Louis,Private (Non-profit),Saint Louis,MO,3,-2,-2,-2,1,1,0,0,0,0,1,1,200,1,200,1,200,1,200
+112,172644,Wayne State University,Public,Detroit,MI,1,2,0,-2,1,1,0,0,0,0,0,1,144,1,144,1,144,1,144
+113,238032,West Virginia University,Public,Morgantown,WV,1,2,0,-2,1,1,0,0,0,0,0,1,108,1,108,1,108,1,108
+114,130794,Yale University,Private (Non-profit),New Haven,CT,3,-2,-2,-2,1,1,0,0,0,0,0,1,117,1,117,1,117,1,117
